@@ -15,4 +15,4 @@ The final project was concluded with one Shiny application and a Pitch using R-P
 Links to the app and presentation.
 The llusionWord APP: https://quijote2018.shinyapps.io/IllusionWord/
 
-This pitch-
+The pitch-presentation: http://rpubs.com/Quijote2015/APP_IllusionWord 
