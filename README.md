@@ -13,6 +13,6 @@ The data was cleaned using the tm, quanteda packages. These packages has various
 The final project was concluded with one Shiny application and a Pitch using R-Presentation.
 
 Links to the app and presentation.
-The NextWord Prediction App, IllusionWord: https://quijote2018.shinyapps.io/IllusionWord/
+The llusionWord APP: https://quijote2018.shinyapps.io/IllusionWord/
 
 This pitch-
